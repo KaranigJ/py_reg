@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "maraphon",
+  "private_key_id": "dfb57529327a433b6c2937950708c40c8b16444a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCuvndtDvxUM0WS\nj8Tf8c3gF3iBLAFtRD+WQe9Qfyu4s1vUUoUWSOYGK3/MenyCXegVZYVulEQ58NhG\nsSc3bjv93TKLc2hBZ6m4EfL1l8b290KFIbtKgVa+NMfOBIyY+oD5HUXWqRwL+9LX\nfsWrfG95M0LbNe7RJw6cmTGL9a/Ie/9VCYWitGF83XGpPI5Epv11qju5CnlssvYK\nGYglnPdBXcKp7O8oNgMm96SQ59z9vlM3xvjO1pKVqfrnDHADBtRVu1whJVod3U6Z\nVaxdfW8TSdDcd4Q+QYvsGchVCCykcd2w0YZpIkpaBqIl3A0v/GvsCZfcQ5urTy8+\n+Od52nVDAgMBAAECggEAB84JCS13Vrlth5TKpH1T295LKxXQldVLs8XhJFVxxKT6\nL9sPB7DyLooIghUMdPQwdq2F+VY/pTOH2Bch2xzI1YITjQf2uvPK2vuuQDWVv5fJ\nTadKir2JJs4LszzKcitqJvZIQBoQicvRyH894UwZsdj4yPq5M81MnpuhthB0rVMi\nugoB2XEYUGADifrCebgSiiacb8KBzUT+ZqsV0kw+S2wH5HJnB8RImCU9U5evyev3\niR8K/pyQg+GoQ82+SYhIZ1KWwux8oKwLxs1Aeh/ZpMR6YUm3VpSsHW1sz3RrRLvZ\nhyd6SPq6zmCCJur1BtVq+gjweMsybfhm4FIlAx22jQKBgQD1AiQ1lbbdNV34kAM5\nX4Ypd+qxww6hpgcm/W63w1C7bbeqsbK1Wx4tkgLb3GqCXxz4Ya+p5e7GD4ezIvb2\nuLy+5ZZgQ7BiW0E3i7AiQm/NdpCFfPG0RYIwvJZKVIwyI2sSsUs7HtGQjO2ytLUW\nDuNFFA2i8uqjsm+KxVRJ9RIphwKBgQC2lVtcFJqYdInfka8REwYwg+wth9KSkt74\ndehp2fKCfeX3vmwIyBDoggHYvSWO1hlgzgYKPiujuu2TL6PjjhOiDxyuxV68GdUd\nwc4B6t19/hTc9w/dvBSyW0SArglRaG0jVDYSlBVreXYeJngk/Uok3Y9DG0GCwEoT\nc+I2w3gVZQKBgAlrw6ir0RRAcRSVtQoHukjt64BaV72vfKbrJ865G+mZFm7h1lVS\n454s9x8tIotQzPRgDTkjNkM3Zahlt8lU4S0V9upMsAOYLrHMFUG7/ECSRoxbeY/M\n/GyTU9QX3CwxYHSfjJ0BWl2MjbdJa40llWealcumO49/1PopDEyrt78RAoGAGsrm\nAigf23lWdhE5wGarRNlHAhNpSgr1Xz5mIYpS9OUmpukxj0RUftn9DWIMLd6rELKK\n3lvrKXaXwD6AbTb/GIvhKKBb23xq8pfq9AsT/5YWV6qFkIM2Ako0TjG7uk95nHKS\nEL3cOs4zEA+TF9J3W9uLV0ybm2U+OYaKzoB2kaUCgYEAu/V5kzCL63pEbE44VUlM\n2eL/AIOqH8HGCUsH9ssNIkVGW82kFKMxwCqemuN8g5CBFVKlnBcc6YYX8A7pNj5U\ng+n3QIy6g6HcQ4wWWnC5eeHmZAppIVXOwzAF3IxwHLfIeS+2rgUlBA1Yknq+O+Hj\nzIk2U1fh/HHeacI2l1yi3lg=\n-----END PRIVATE KEY-----\n",
+  "client_email": "mar-bot@maraphon.iam.gserviceaccount.com",
+  "client_id": "110610586498998634726",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mar-bot%40maraphon.iam.gserviceaccount.com"
+}
